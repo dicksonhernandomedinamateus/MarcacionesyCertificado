@@ -4,6 +4,9 @@ import numpy as np
 from datetime import datetime, date, time, timedelta
 import io
 import re
+import pdfplumber
+import pytesseract
+import reportlab
  
 # ─── Configuración de página ───────────────────────────────────────────────────
 st.set_page_config(
