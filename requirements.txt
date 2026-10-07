@@ -4,3 +4,5 @@ numpy
 openpyxl
 xlrd
 reportlab
+pdfplumber
+pytesseract
